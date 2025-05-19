@@ -20,6 +20,6 @@ botao.addEventListener('click',e =>{
     botao.innerHTML='Clique para ver uma mensagem';
     }
     else{
-    botao.innerHTML='Olá, obrigado pela atenção, esse foi o meu primeiro trabalho no curso de analise e desenvolvimento de sistemas; espero que goste! ATÉ A PROXIMA👋😊';
+    botao.innerHTML='Olá, obrigado pela atenção, esse é o meu primeiro trabalho no curso de análise e desenvolvimento de sistemas; espero que goste! TCHAU, ATÉ O PROXIMO👋😊';
     }
 })  
