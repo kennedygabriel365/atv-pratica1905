@@ -2,22 +2,22 @@ body{
     background-color: #615e5e91;
     text-align: center;
 }
+
 h1{
     color:rgb(78, 57, 30) center;
     text-align: center;
     font: 30px;
 }
+
 p{
     font: 15px arial;
     text-align: justify;
 }
-ul{
-    
-    width: 400px;
-    border: 1px black;
-    border-style: solid;
-}
 
+ul{
+    display: inline-block;
+    text-align: justify;
+}
 
 .botão1{
     background-color: #615e5e91;
@@ -28,44 +28,35 @@ ul{
 }
 
 .botão2{
-    
-
     color: rgb(0, 0, 0);
     padding: 5px 10px;
     font: 15px arial;
     text-align: justify;
-
 }
-.botão2:hover{
 
-       
+.botão2:hover{   
     color: rgb(156, 25, 25);
     padding: 5px 10px;
-
 }
+
 .it{
     display: inline-block;
     padding-inline-start: 0px;
     border: none;
-    margin-right: 10px;
-  
+    margin-right: 10px;  
 }
 
 .imagem1{
     text-align: center;
-    background: url("imagem1.png")no-repeat center center;
+    background: url("img/imagem1.png")no-repeat center center;
     width: 280px;
     height: 350px;
     display: block;
     background-size: contain;
     border-radius: 10px;
-    padding-right:20px ;
-    
-
-  
-      
-       
+    padding-right:20px ;    
 }
+
 table, th, td {
     border-width: 2px;
     border-style: solid;
@@ -88,7 +79,7 @@ table, th, td {
 }
 
 .imagem2{
-    background: url(jamaica.3.jpg)no-repeat center center;
+    background: url(img/jamaica.3.jpg)no-repeat center center;
     width: 191px;
     height: 127px;
     display: block;
@@ -97,7 +88,7 @@ table, th, td {
 }
 
 .imagem3{
-    background: url(havai2.0.jpg)no-repeat center center;
+    background: url(img/havai2.0.jpg)no-repeat center center;
     width: 191px;
     height: 127px;
     display: block;
@@ -106,7 +97,7 @@ table, th, td {
 }
 
 .imagem4{
-    background: url(bahamas.4.jpg)no-repeat center center;
+    background: url(img/bahamas.4.jpg)no-repeat center center;
     width: 191px;
     height: 127px;
     display: block;
