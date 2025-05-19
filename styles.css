@@ -1,0 +1,126 @@
+body{
+    background-color: #615e5e91;
+    text-align: center;
+}
+h1{
+    color:rgb(78, 57, 30) center;
+    text-align: center;
+    font: 30px;
+}
+p{
+    font: 15px arial;
+    text-align: justify;
+}
+ul{
+    
+    width: 400px;
+    border: 1px black;
+    border-style: solid;
+}
+
+
+.botão1{
+    background-color: #615e5e91;
+    color: rgb(7, 7, 7);
+    padding: 5px 30px;
+    border: rgb(78, 72, 72) 3px outset;
+    border-radius: 100px;
+}
+
+.botão2{
+    
+
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+    font: 15px arial;
+    text-align: justify;
+
+}
+.botão2:hover{
+
+       
+    color: rgb(156, 25, 25);
+    padding: 5px 10px;
+
+}
+.it{
+    display: inline-block;
+    padding-inline-start: 0px;
+    border: none;
+    margin-right: 10px;
+  
+}
+
+.imagem1{
+    text-align: center;
+    background: url("imagem1.png")no-repeat center center;
+    width: 280px;
+    height: 350px;
+    display: block;
+    background-size: contain;
+    border-radius: 10px;
+    padding-right:20px ;
+    
+
+  
+      
+       
+}
+table, th, td {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.712);
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;    
+}
+
+.jam{
+    background-color: rgba(177, 140, 98, 0.404);
+}
+
+.hav{
+    background-color: rgba(177, 140, 98, 0.404);    
+}
+
+.bah{
+    background-color: rgba(177, 140, 98, 0.404);
+}
+
+.imagem2{
+    background: url(jamaica.3.jpg)no-repeat center center;
+    width: 191px;
+    height: 127px;
+    display: block;
+    border-radius: 5px;
+    background-size: contain;
+}
+
+.imagem3{
+    background: url(havai2.0.jpg)no-repeat center center;
+    width: 191px;
+    height: 127px;
+    display: block;
+    border-radius: 5px;
+    background-size: contain;
+}
+
+.imagem4{
+    background: url(bahamas.4.jpg)no-repeat center center;
+    width: 191px;
+    height: 127px;
+    display: block;
+    border-radius: 5px;
+    background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
